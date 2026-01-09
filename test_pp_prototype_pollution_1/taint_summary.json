@@ -1,0 +1,9 @@
+[
+    {
+        "filename": "/home/parallels/Desktop/graphjs/tests/input/single_file/prototype_pollution_1.js",
+        "vuln_type": "prototype-pollution",
+        "sink": "o[x][y] = z;",
+        "sink_lineno": 4,
+        "sink_function": "51"
+    }
+]

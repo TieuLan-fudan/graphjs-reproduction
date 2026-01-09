@@ -1,0 +1,8 @@
+/home/parallels/Desktop/graphjs/tests/input/multifile/injection_caller_1/index.js:
+
+	/home/parallels/Desktop/graphjs/tests/input/multifile/injection_caller_1/g.js
+
+/home/parallels/Desktop/graphjs/tests/input/multifile/injection_caller_1/g.js:
+
+	No dependencies
+

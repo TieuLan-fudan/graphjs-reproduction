@@ -1,13 +1,27 @@
+# ==== Parser / Node.js ====
 parser/node_modules/*
 parser/if.json
 parser/coverage/*
 parser/built/*
 parser/src/graphs/*
+node_modules*
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-instrumentation/node_modules/*
-
+# ==== Python ====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
 virtual_py/*
+*.egg-info/
+*.egg
 
+# ==== Neo4j ====
 neo4j-custom/.config
 neo4j-custom/import.report
 neo4j-custom/neo4j_start.txt
@@ -15,21 +29,35 @@ neo4j-custom/neo4j_stop.txt
 neo4j-custom/neo4j_import.txt
 neo4j-custom/import-files/*
 .neo4j/
-
-graphjs-results
 import.report
+
+# ==== Test outputs ====
+graphjs-results
+graphjs-results/
+test_output/
+test_output2/
+test_output_eval/
+test_output_multifile/
+tests/output
 detection/queries/tests/output
+diff.output
 
-__pycache__/
-venv/
-.venv/
-
-node_modules*
-
+# ==== IDE / Editor ====
 .vscode/
 .idea/
 *.iml
-.DS_Store
+*.swp
+*.swo
+*~
 
-tests/output
-diff.output
+# ==== OS files ====
+.DS_Store
+Thumbs.db
+
+# ==== Logs ====
+*.log
+logs/
+
+# ==== Instrumentation ====
+instrumentation/node_modules/*
+

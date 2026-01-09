@@ -1,0 +1,37 @@
+# Citation / 引用说明
+
+本仓库基于以下学术论文和开源项目：
+
+## 原始论文
+
+Mafalda Ferreira, Miguel Monteiro, Tiago Brito, Miguel E. Coimbra, Nuno Santos, Limin Jia, and José Fragoso Santos. 2024.
+**Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs.**
+ACM Transactions on Software Engineering and Methodology (TOSEM).
+https://dl.acm.org/doi/10.1145/3656394
+
+## BibTeX 引用
+
+```bibtex
+@article{ferreira2024graphjs,
+  author = {Ferreira, Mafalda and Monteiro, Miguel and Brito, Tiago and Coimbra, Miguel E. and Santos, Nuno and Jia, Limin and Santos, José Fragoso},
+  title = {Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs},
+  journal = {ACM Transactions on Software Engineering and Methodology},
+  year = {2024},
+  doi = {10.1145/3656394},
+  publisher = {ACM}
+}
+```
+
+## 原始代码仓库
+
+- **GitHub**: https://github.com/AML14/graph.js (原作者)
+- **FormAlSec**: https://github.com/formalsec/graphjs
+
+## 声明
+
+本仓库仅用于学术研究与学习目的。所有核心代码版权归原作者所有。
+如需商业使用，请联系原作者获取授权。
+
+This repository is for academic research and learning purposes only.
+All core code copyrights belong to the original authors.
+For commercial use, please contact the original authors for permission.

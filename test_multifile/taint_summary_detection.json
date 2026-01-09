@@ -1,0 +1,8 @@
+[
+    {
+        "filename": "/home/parallels/Desktop/graphjs/tests/input/multifile/injection_caller_1/index.js",
+        "vuln_type": "code-injection",
+        "sink": "eval(g(x))",
+        "sink_lineno": 7
+    }
+]

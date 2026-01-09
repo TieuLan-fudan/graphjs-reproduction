@@ -1,0 +1,9 @@
+[
+    {
+        "filename": "/home/parallels/Desktop/graphjs/tests/input/single_file/injection_callee_4.js",
+        "vuln_type": "code-injection",
+        "sink": "eval(x);",
+        "sink_lineno": 13,
+        "sink_function": "100"
+    }
+]

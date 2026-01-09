@@ -1,0 +1,9 @@
+[
+    {
+        "filename": "/home/parallels/Desktop/graphjs/tests/input/single_file/injection_sanitizer.js",
+        "vuln_type": "command-injection",
+        "sink": "return exec(escape(target), callback);",
+        "sink_lineno": 8,
+        "sink_function": "99"
+    }
+]
