@@ -1,6 +1,6 @@
-# Graph.js — JavaScript 静态漏洞分析工具
+# Graph.js（JavaScript 静态漏洞分析工具）复现实验
 
-> 基于多版本依赖图 (Multiversion Dependency Graph, MDG) 的高效 JavaScript 静态漏洞检测工具
+> GitHub仓库地址：https://github.com/TieuLan-fudan/graphjs-reproduction  
 
 [![Paper](https://img.shields.io/badge/Paper-ACM%20TOSEM%202024-blue)](https://dl.acm.org/doi/10.1145/3656394)
 [![Original Repo](https://img.shields.io/badge/Original-formalsec%2Fgraphjs-green)](https://github.com/formalsec/graphjs)
